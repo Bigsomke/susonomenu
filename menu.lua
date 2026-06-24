@@ -129,7 +129,7 @@ Menu.Colors = {
     FooterBlack = { r = 0, g = 0, b = 0 }
 }
 
-Menu.CurrentTheme = "black"
+Menu.CurrentTheme = "gray"
 
 function Menu.ApplyTheme(themeName)
     if not themeName or type(themeName) ~= "string" then
