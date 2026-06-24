@@ -71,7 +71,7 @@ end
 
 Menu.Banner = {
     enabled = true,
-    imageUrl = "https://4up4.com/uploads/file_2026-06-24_205959.png",
+    imageUrl = "https://4up4.com/uploads/file_2026-06-24_211933.png",
     height = 100
 }
 
